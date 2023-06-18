@@ -1,4 +1,4 @@
-# FaceDetected [![My Skills](https://skills.thijs.gg/icons?i=javascript,vscode,&theme=dark)]
+# FaceDetected ![My Skills](https://skills.thijs.gg/icons?i=javascript,vscode,&theme=dark)
 
 ### Face-api em Javascript
 - JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API 
